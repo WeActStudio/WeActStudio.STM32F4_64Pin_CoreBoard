@@ -1,0 +1,14 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+    ],
+    "mcu": "stm32f4",
+    "product": "WeActStudio STM32F446RE",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "ST Microelectronics"
+}
