@@ -1,5 +1,13 @@
 * [English version](./README.md)
 # WeActStudio.STM32F4_64Pin_CoreBoard
+> 注意：  
+为了实现多款型号的 PCB 兼容，以下管脚名在不同型号下有不同的定义
+
+|管脚名|STM32H562|STM32H503|STM32F405|STM32F412|STM32F446|STM32F411|
+| :--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|B9 (芯片pin62)|NC (VCAP 2.2uF)|NC (VCAP 2.2uF)|PB9|PB9|PB9|PB9|
+|B11 (芯片pin30)|NC (VCAP 2.2uF)|NC (VCAP 2.2uF)|PB11|PB11|PB11|PB11|
+
 ![display](Images/1.png)
 ![display](Images/2.png)
 **STM32F405RGT6**  
