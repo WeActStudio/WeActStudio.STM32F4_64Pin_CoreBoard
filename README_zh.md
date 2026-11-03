@@ -38,7 +38,7 @@ ST 官方网站 Website www.st.com
 - aliexpress 1: WeActStudio.aliexpress.com
 - aliexpress 2: WeActStudioOne.aliexpress.com
 - github: github.com/WeActStudio
-- gitee: gitee.com/WeAct-TC
-- blog: www.weact-tc.cn
+- gitee: gitee.com/WeActStudio
+- blog: blog.weactstudio.com
 ---------------------------------------*/
 ```
